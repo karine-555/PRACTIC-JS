@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.box{
+    width: 400px;
+    height: 350px;
+    background-color:bisque;
+    overflow-y: auto;
+    overflow-x: hidden;
+    padding: 10px;
+    margin: 50px auto;
+}
